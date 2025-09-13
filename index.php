@@ -78,7 +78,7 @@
                 "💰 Quer consórcio com parcelas que cabem no seu bolso? Chama no zap -> https://wa.me/5527999497001",
                 "✅ Atendimento personalizado em seguros e consórcios! WhatsApp: (27) 99949-7001",
                 "📲 Simule agora seu consórcio ou seguro! É rápido e gratuito -> https://wa.me/5527999497001",
-                "💬 Fale direto com um consultor especializado via WhatsApp -> https://wa.me/5527999497001",
+                "💬 Fale direto com um consultor especializado SEGUROS E CONSÓRCIOS CONSULTE HJ MESMO via WhatsApp -> https://wa.me/5527999497001",
                 "💡 Seguro ideal pra você? A gente te ajuda a encontrar! -> https://wa.me/5527999497001",
                 "📈 Faça seu dinheiro render com consórcios inteligentes. Fale conosco -> https://wa.me/5527999497001",
                 "💰 Crédito pessoal fácil e rápido -> https://geocredibnkvitoria.com/",
