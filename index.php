@@ -3,6 +3,9 @@
 function getRandomPropaganda() {
     $propagandas = [
         "💻 VPS Rápido, Seguro e Barato -> https://filmeseserie.com.br/vps.html  Desempenho estável, segurança garantida e preços acessíveis! contato whatsapp 📲 Fale agora no WhatsApp:27 99986-0405",
+        "PRECISA DE CRÉDITO PESSOAL TA AQUI A SOLUÇÃO -> https://geocredibnkvitoria.com/ ",
+        "💻 VPS Rápido, Seguro e Barato  Desempenho estável, segurança garantida e preços acessíveis! contato whatsapp 📲 Fale agora no WhatsApp: CONTATO: https://wa.me/5527999860405",
+        "Solicite sua cotação de seguros, consórcios e muito mais! Atendimento com todas as seguradoras. 📞 (27) 99949-7001 CONTATO: https://wa.me/5527999497001",
         "💻 VPS Rápido, Seguro e Barato -> https://www.espiritosanto-es.com.br/vps.html  Desempenho estável, segurança garantida e preços acessíveis! contato whatsapp 📲 Fale agora no WhatsApp:27 99986-0405",
         "PRECISA DE CRÉDITO PESSOAL TA AQUI A SOLUÇÃO -> https://geocredibnkvitoria.com/ Telefone: (27) 99726-9454...",
         "Solicite sua cotação de seguros, consórcios e muito mais! Atendimento com todas as seguradoras. 📞 (27) 99949-7001 CONTATO:",
@@ -13,7 +16,7 @@ function getRandomPropaganda() {
 }
 
 function getRandomTag() {
-    $tags = ["#MoquecaCapixaba", "#ComidaCapixaba", "#GastronomiaCapixaba", "#VilaVelha", "#VitóriaES", "#Guarapari", "#VixDaDepressao", "#VilavelhaPraias"];
+    $tags = ["#MoquecaCapixaba", "#ComidaCapixaba", "#GastronomiaCapixaba", "#VilaVelha", "#VitóriaES", "#Guarapari", "#VixDaDepressao", "#VilavelhaPraias","#vilavelhaes", "#praiadacosta", "#conventodapenha",                "#vilavelhapraias", "#turismovilavelha",];
     return $tags[array_rand($tags)];
 }
 
