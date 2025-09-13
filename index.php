@@ -17,7 +17,7 @@ function getRandomTag() {
     return $tags[array_rand($tags)];
 }
 
-function getYoutubeLinks($query = "RICA GAMES") {
+function getYoutubeLinks($query = "noticia vitoria es") {
     $query = urlencode($query);
     $url = "https://www.youtube.com/results?search_query={$query}";
 
