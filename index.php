@@ -1,4 +1,4 @@
-<!DOCTYPE html>
++<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -99,7 +99,9 @@
 
         function getRandomTag() {
             $tags = [
-                                     "#amigosparaSempre",
+                       "#GTAViceCity", "#StreetOfRage", "#MaxPayne", "#HotlineMiami", "#NeedForSpeed", "#RetroGaming", "#ArcadeGames", "#DoubleDragon", "#MetalSlug", "#ContraGame", "#MafiaGame", "#DriverPS1", "#TrueCrimeStreetsOfLA", "#VirtualCop", "#RetroGames", "#OldSchoolGames", "#Playstation1", "#SegaGenesis", "#SNES", "#NESClassic", "#BeatEmUp", "#ShootEmUp", "#ClassicArcade", "#PS2Games", "#GameBoyAdvance", "#PixelArtGames", "#TopDownShooter", "#RunAndGun", "#ClassicGaming", "#80sGames", "#90sGames", "#GamingNostalgia", "#HardcoreGamer", "#IndieRetro", "#GamingMemories", "#ViceCityVibes", "#ClassicGTA", "#GTAThrowback", "#TimeToPlay", "#GameOver", "#InsertCoin", "#2DActionGames", "#SideScroller", "#ClassicShooter", "#FPSRetro", "#DrivingGames", "#CrimeGames", "#VirtualArcade", "#CoinOpGames",
+
+                                    "#amigosparaSempre",
                                     "#vidaloka",
                                     "#partiuaventura",
                                     "#naoseiquemudou",
@@ -2572,7 +2574,7 @@
             return $tags[array_rand($tags)];
         }
 
-        function getYoutubeLinks($query = "three jogabilidade js jogos javascript") {
+        function getYoutubeLinks($query = "rica games") {
             $query = urlencode($query);
             $url = "https://www.youtube.com/results?search_query={$query}";
 
