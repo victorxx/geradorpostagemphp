@@ -99,6 +99,16 @@
 
         function getRandomTag() {
             $tags = [
+                                    "#VolkswagenGolG8",
+                                    "#RenaultKwid",
+                                    "#FiatMobi",
+                                    "#FiatCronos",
+                                    "#Peugeot208",
+                                    "#HyundaiHB20",
+                                    "#ChevroletOnix",
+                                    "#FiatArgo",
+                                    "#RenaultLogan",
+                                    "#FiatStrada",
                     
                                 "#contrarrevolucionário",
                                 "#desconstitucionalizar",
@@ -2592,7 +2602,7 @@
             return $tags[array_rand($tags)];
         }
 
-        function getYoutubeLinks($query = "imoveis noticias") {
+        function getYoutubeLinks($query = "trote telefone") {
             $query = urlencode($query);
             $url = "https://www.youtube.com/results?search_query={$query}";
 
