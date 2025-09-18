@@ -99,6 +99,24 @@
 
         function getRandomTag() {
             $tags = [
+                    
+                                "#contrarrevolucionário",
+                                "#desconstitucionalizar",
+                                "#desincompatibilização",
+                                "#desinstitucionalizado",
+                                "#desprofissionalização",
+                                "#desproporcionadamente",
+                                "#extraterritorialidade",
+                                "#inconstitucionalidade",
+                                "#inconstitucionalmente",
+                                "#interconfessionalismo",
+                                "#interdisciplinaridade",
+                                "#interdisciplinarmente",
+                                "#multidimensionalidade",
+                                "#multidisciplinaridade",
+                                "#pluridimensionalidade",
+                                "#pluridisciplinaridade",
+                                 "#transdisciplinaridade",
                        "#GTAViceCity", "#StreetOfRage", "#MaxPayne", "#HotlineMiami", "#NeedForSpeed", "#RetroGaming", "#ArcadeGames", "#DoubleDragon", "#MetalSlug", "#ContraGame", "#MafiaGame", "#DriverPS1", "#TrueCrimeStreetsOfLA", "#VirtualCop", "#RetroGames", "#OldSchoolGames", "#Playstation1", "#SegaGenesis", "#SNES", "#NESClassic", "#BeatEmUp", "#ShootEmUp", "#ClassicArcade", "#PS2Games", "#GameBoyAdvance", "#PixelArtGames", "#TopDownShooter", "#RunAndGun", "#ClassicGaming", "#80sGames", "#90sGames", "#GamingNostalgia", "#HardcoreGamer", "#IndieRetro", "#GamingMemories", "#ViceCityVibes", "#ClassicGTA", "#GTAThrowback", "#TimeToPlay", "#GameOver", "#InsertCoin", "#2DActionGames", "#SideScroller", "#ClassicShooter", "#FPSRetro", "#DrivingGames", "#CrimeGames", "#VirtualArcade", "#CoinOpGames",
 
                                     "#amigosparaSempre",
@@ -2574,7 +2592,7 @@
             return $tags[array_rand($tags)];
         }
 
-        function getYoutubeLinks($query = "rica games") {
+        function getYoutubeLinks($query = "imoveis noticias") {
             $query = urlencode($query);
             $url = "https://www.youtube.com/results?search_query={$query}";
 
