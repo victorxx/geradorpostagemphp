@@ -1,4 +1,4 @@
-+<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -99,6 +99,25 @@
 
         function getRandomTag() {
             $tags = [
+                
+                     
+                               "#RuaRioGrandeDoSul",
+                                "#RuaDeSantaCatarina",   
+                                "#RuaDeCuritiba",        
+                                "#RuaDeSãoPaulo",        
+                                "#RuaDoRioDeJaneiro",    
+                                "#RuaDoEspíritoSanto",   
+                                "#RuaDaBahia",
+                                "#RuaDoSergipe",
+                                "#RuaDeAlagoas",
+                                "#RuaDoPernambuco",      
+                                "#RuaDaParaíba",
+                                "#RuaDoRioGrandeDoNorte",
+                                "#RuaDoCeará",
+                                "#RuaDoPiauí",
+                                "#RuaDoMaranhão",
+                                "#RuaDoGrãoPará",
+                                "#RuaDeManaus",
                 
                 
                                     "#Adão",
