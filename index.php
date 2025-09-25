@@ -1,9 +1,9 @@
-.<!DOCTYPE html>
++<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="noindex, follow">
     <meta name="description" content="Geração automática de conteúdo com vídeos do YouTube, propagandas de serviços e hashtags regionais do Espírito Santo.">
     <meta name="author" content="Seu Nome ou Empresa">
     <title>POSTAGEM AUTOMÁTICA</title>
@@ -101,7 +101,8 @@
             $tags = [
                 
                 
-                
+                            "#carropotente", "#velocidadepura", "#motorroncando", "#asfaltoquente", "#vidrosfume", "#rodascromadas", "#bancorebaixado", "#volanteesportivo", "#marchaturbo", "#escapeaberto", "#potenciaextrema", "#pilotagembraba", "#carronoponto", "#estilodecarro", "#vidalowcar", "#garagestyle", "#turbonave", "#carrobaixado", "#paixaoporcarros", "#carrocultura",
+                                                "#Alfajor",
                                                 
                                                  "#Alfajor",
                                                 "#Alfajorcitosdemaicena",
@@ -2812,7 +2813,7 @@
             return $tags[array_rand($tags)];
         }
 
-        function getYoutubeLinks($query = "trote telefone") {
+        function getYoutubeLinks($query = "OUTRUN MEGA DRIVER") {
             $query = urlencode($query);
             $url = "https://www.youtube.com/results?search_query={$query}";
 
