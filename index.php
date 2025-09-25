@@ -2813,7 +2813,7 @@
             return $tags[array_rand($tags)];
         }
 
-        function getYoutubeLinks($query = "OUTRUN MEGA DRIVER") {
+        function getYoutubeLinks($query = "AQUARIO VIRTUAL COM PYTHON") {
             $query = urlencode($query);
             $url = "https://www.youtube.com/results?search_query={$query}";
 
