@@ -99,7 +99,8 @@
 
         function getRandomTag() {
             $tags = [
-                
+                "#cidade", "#casa", "#moradia", "#residência", "#abrigo", "#pousada", "#habitação", "#rancho", "#toca", "#estância", "#barraca", "#lar", "#cabana", "#choupana", "#fazenda",
+
                 
                             "#carropotente", "#velocidadepura", "#motorroncando", "#asfaltoquente", "#vidrosfume", "#rodascromadas", "#bancorebaixado", "#volanteesportivo", "#marchaturbo", "#escapeaberto", "#potenciaextrema", "#pilotagembraba", "#carronoponto", "#estilodecarro", "#vidalowcar", "#garagestyle", "#turbonave", "#carrobaixado", "#paixaoporcarros", "#carrocultura",
                                                 "#Alfajor",
@@ -2813,7 +2814,7 @@
             return $tags[array_rand($tags)];
         }
 
-        function getYoutubeLinks($query = "AQUARIO VIRTUAL COM PYTHON") {
+        function getYoutubeLinks($query = "gameplay ") {
             $query = urlencode($query);
             $url = "https://www.youtube.com/results?search_query={$query}";
 
