@@ -99,6 +99,7 @@
 
         function getRandomTag() {
             $tags = [
+                 "#SonicTheHedgehog", "#Sonic2", "#Sonic3", "#SonicAndKnuckles", "#SonicAdventure", "#SonicAdventure2", "#SonicHeroes", "#SonicGenerations", "#SonicColors", "#SonicForces", "#SonicMania", "#SonicUnleashed", "#SonicCD", "#SonicR", "#SonicSpinball",
                 "#cidade", "#casa", "#moradia", "#residência", "#abrigo", "#pousada", "#habitação", "#rancho", "#toca", "#estância", "#barraca", "#lar", "#cabana", "#choupana", "#fazenda",
 
                 
