@@ -99,6 +99,8 @@
 
         function getRandomTag() {
             $tags = [
+                            "#gelopicado", "#gelo", "#gelodesabor", "#gelodecoco", "#gelocombebida", "#gelocomsabor", "#gelinho", "#geladinhogourmet", "#geladinhosaboroso", "#gelinhonatural", "#gelinhosaborizado", "#gelinhocomfruta", "#gelinhogourmetcaseiro", "#gelinhodeluxo", "#gelinhoparafestas", "#gelinhodeverão", "#gelinhocaseiro", "#gelinhodafruta", "#gelinhorefrescante", "#gelinhocombebida"
+,
                 "#Lasai", "#Oteque", "#Oro", "#Olympe", "#Mee", "#ChezClaude", "#Escama", "#Grado", "#BabboOsteria", "#CasaDoSardo", "#Lilia", "#SudOPássaroVerde", "#GeroRio", "#Sult", "#Artigiano", "#BottegaDelVino", "#Pomodorino", "#RisoBistrô", "#OuiOui",
                  "#SonicTheHedgehog", "#Sonic2", "#Sonic3", "#SonicAndKnuckles", "#SonicAdventure", "#SonicAdventure2", "#SonicHeroes", "#SonicGenerations", "#SonicColors", "#SonicForces", "#SonicMania", "#SonicUnleashed", "#SonicCD", "#SonicR", "#SonicSpinball",
                 "#cidade", "#casa", "#moradia", "#residência", "#abrigo", "#pousada", "#habitação", "#rancho", "#toca", "#estância", "#barraca", "#lar", "#cabana", "#choupana", "#fazenda",
