@@ -99,6 +99,35 @@
 
         function getRandomTag() {
             $tags = [
+                            "#ResidentEvil",
+"#ResidentEvil2Remake",
+"#ResidentEvil3Remake",
+"#ResidentEvil4",
+"#ResidentEvilVillage",
+"#DevilMayCry",
+"#DMC5",
+"#MonsterHunter",
+"#MonsterHunterWorld",
+"#MonsterHunterRise",
+"#StreetFighter",
+"#StreetFighter6",
+"#MegaMan",
+"#MegaManX",
+"#DeadRising",
+"#DragonsDogma",
+"#DragonsDogma2",
+"#GhostsNGoblins",
+"#AceAttorney",
+"#PhoenixWright",
+"#CapcomArcade",
+"#CapcomFightingCollection",
+"#CapcomVs",
+"#MarvelVsCapcom",
+"#UltimateMarvelVsCapcom3",
+"#CapcomGames",
+"#CapcomBrasil",
+"#CapcomFans",
+"#CapcomClassics",
                             "#Brigadeiro", "#Beijinho", "#DoceDeLeite", "#Pudim", "#BoloDeCenoura", "#Quindim", "#Cocada", "#Paçoca", "#Rocambole", "#Pavê", "#MousseDeMaracujá", "#Churros", "#TortaDeLimão", "#Rapadura", "#Canjica", "#DocesBrasileiros", "#DocesCaseiros", "#DocesArtesanais", "#DocesTradicionais", "#ReceitaDeDoce", "#AmantesDeDoces", "#DocesDaVovó", "#DocesParaFesta", "#SobremesasDeliciosas", "#DocinhosDeFesta", "#Chocolate", "#Caramelo", "#DoceComFrutas", "#DoceComCoco", "#DoceComAmendoim", "#DoceGelado", "#SobremesaDeLeiteCondensado", "#DocesDePadaria", "#DocesComChocolate"
 ,
                 "#Pedigree", "#RoyalCanin", "#PurinaProPlan", "#Golden", "#DogChow", "#Nutrience", "#PremierPet", "#Guabi", "#Equilibrio", "#Choice", "#Farmina", "#GranPlus", "#HillsScienceDiet", "#Eukanuba", "#Naturalis", "#Monello", "#TotalAlimentos", "#ProPlan", "#VitalCan", "#NaturalPet", "#FitDog", "#MaxCat", "#Biofresh", "#Chappi", "#DrogaVET", "#Wiskas", "#TopDog", "#RaçãoBicho", "#RaçãoNobre", "#PetMais",
@@ -2825,7 +2854,7 @@
             return $tags[array_rand($tags)];
         }
 
-        function getYoutubeLinks($query = "musica para relaxxa ") {
+        function getYoutubeLinks($query = "pao de sal ") {
             $query = urlencode($query);
             $url = "https://www.youtube.com/results?search_query={$query}";
 
