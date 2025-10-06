@@ -99,6 +99,9 @@
 
         function getRandomTag() {
             $tags = [
+                  "#CallOfDutyBlackOps2", "#CallOfDutyModernWarfare3", "#MortalKombat9", "#Skate3", "#FIFA14", "#PES2013", "#SaintsRowTheThird", "#Catherine", "#FarCry3", "#MaxPayne3", "#SleepingDogs", "#DragonAgeOrigins", "#LollipopChainsaw", "#Borderlands2", "#Prototype2", "#Mirror'sEdge", "#FightNightChampion", "#DeadIsland", "#LostPlanet2", "#VirtuaFighter5",
+
+            "#TheLastOfUs", "#Uncharted3", "#GodOfWar3", "#RedDeadRedemption", "#GTA5", "#HeavyRain", "#MetalGearSolid4", "#LittleBigPlanet", "#DemonSouls", "#Killzone3", "#BatmanArkhamCity", "#AssassinsCreed2", "#BioshockInfinite", "#GranTurismo5", "#DarkSouls", "#NiNoKuni", "#Infamous2", "#DeadSpace2", "#JourneyPS3", "#Resistance3",
                 "#aceCombat2", "#aceCombat3Electrosphere", "#azureDreams", "#battleArenaToshinden", "#battleArenaToshinden2", "#battleArenaToshinden3", "#bloodyRoar", "#bloodyRoarII", "#breathOfFireIII", "#brigandineTheLegendOfForsena", "#bushidoBlade", "#bushidoBlade2", "#capcomVsSNKMillenniumFight2000Pro", "#castlevaniaChronicles", "#colonyWars", "#coolBoarders", "#crashTeamRacing", "#crashBandicoot", "#crashBandicoot2CortexStrikesBack", "#crashBandicoot3Warped", "#crocLegendOfTheGobbos", "#darkstalkers3", "#deadOrAlive", "#devilDice", "#digimonWorld", "#dinoCrisis", "#doom", "#driver", "#einhander", "#futureCopLAPD", "#grandTheftAuto", "#gratToronto2", "#grandia", "#gundamBattleAssault", "#heartOfDarkness", "#incredibleCrisis", "#iqIntelligentQube", "#issyProEvolutionSoccer", "#jackieChanStuntmaster", "#jetMoto", "#klonoaDoorToPhantomile", "#legendOfDragoon", "#legacyOfKainSoulReaver", "#medalOfHonor", "#medievil", "#mortalKombatTrilogy", "#needForSpeedHighStakes", "#nightmareCreatures", "#oddworldAbesOddysee", "#omegaBoost", "#pandemonium2", "#parappaTheRapper", "#parasiteEve", "#pepsiman", "#rTypeDelta", "#r4RidgeRacerType4", "#rayman", "#rivalSchoolsUnitedByFate", "#rollAway", "#silentHill", "#spiderMan2000", "#spyroTheDragon", "#spyro2RiptosRage", "#streetFighterAlpha3", "#streetFighterEX2Plus", "#syphonFilter", "#tenchuStealthAssassins", "#timeCrisis", "#tobal2", "#tombRaider", "#tomba", "#tonyHawksProSkater2", "#twistedMetal2", "#vagrantStory", "#vigilante8", "#wipeoutXL", "#xenogears", "#yuGiOhForbiddenMemories",
                 "#finalFantasyVII", "#finalFantasyVIII", "#finalFantasyIX", "#metalGearSolid", "#castlevaniaSymphonyOfTheNight", "#residentEvil2", "#residentEvil", "#silentHill", "#granTurismo", "#granTurismo2",
 "#tekken3", "#crashBandicoot", "#crashBandicoot2", "#crashBandicoot3Warped", "#spyroTheDragon", "#spyro2RiptoRipp", "#spyro3YearOfTheDragon", "#tonyHawksProSkater", "#tonyHawksProSkater2", "#vagrantStory",
@@ -2893,7 +2896,7 @@
             return $tags[array_rand($tags)];
         }
 
-        function getYoutubeLinks($query = "ChurrascoNaBrasa ") {
+        function getYoutubeLinks($query = "som de chuva ") {
             $query = urlencode($query);
             $url = "https://www.youtube.com/results?search_query={$query}";
 
