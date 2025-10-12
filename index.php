@@ -99,6 +99,7 @@
 
         function getRandomTag() {
             $tags = [
+                  "#BatmanReturns", "#BatmanTheVideoGame", "#TheAdventuresOfBatmanAndRobin", "#BatmanReturns", "#TheAdventuresOfBatmanAndRobin", "#BatmanRevengeOfTheJoker", "#BatmanForeverTheArcadeGame", "#BatmanAndRobin", "#BatmanBeyondReturnOfTheJoker", "#BatmanGothamCityRacer", "#BatmanVengeance", "#BatmanDarkTomorrow", "#BatmanBegins", "#BatmanRiseOfSinTzu", "#BatmanArkhamAsylum", "#BatmanArkhamCity", "#BatmanArkhamOrigins",
                           "#frozen", "#toystory", "#moana", "#procurandonemo", "#carros", "#divertidamente", "#meumalvadofavorito", "#zootopia", "#abelaeomonstro", "#shrek",
 "#ralphquebraaainternet", "#detonaRalph", "#cinderela", "#aeraumavez", "#aladdin", "#branca de neve", "#mulan", "#tangled", "#vivaincrivel", "#liloestitch",
 "#up", "#pequenainumeroseis", "#hoteltransilvania", "#madagascar", "#aepoca do gelo", "#kungfupanda", "#rio", "#valente", "#osincriveis", "#bobesponja",
