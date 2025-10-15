@@ -100,6 +100,7 @@
         function getRandomTag() {
             $tags = [
                 
+                         "#RuaEspíritoSanto", "#AvenidaSãoJoão", "#RuaSergipe", "#AvenidaEspíritoSanto", "#RuaGoiás", "#RuaSantaCatarina", "#RuaMinasGerais", "#RuaPresidenteVargas", "#RuaRioDeJaneiro", "#RuaSantaHelena", "#RuaAmazonas", "#RuaJorgePinheiro", "#RuaAlfredoCoutoTeixeira", "#RuaCarlosAlberto", "#RuaAvenidaCariacica",
                                         "#OClone",
                                         "#AvenidaBrasil",
                                         "#SenhoraDoDestino",
