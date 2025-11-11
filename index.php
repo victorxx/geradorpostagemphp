@@ -99,6 +99,30 @@
 
         function getRandomTag() {
             $tags = [
+                  "#Bala7Belo", "#BalaSoft", "#BalaFreegells", "#BalaHalls", "#BalaMentos", "#BalaFini", "#BalaButterToffees", "#BalaJujuba", "#BalaDelícia", "#BalaBeijo", "#BalaBigBig", "#BalaDadinho", "#BalaChita", "#BalaArcor", "#BalaRebite", "#BalaIogurte", "#BalaMentosFruit", "#BalaMentosMint", "#BalaHallsExtraStrong", "#BalaFrutella", "#BalaLollo", "#BalaTuttiFrutti", "#BalaCaramelo", "#BalaGelatina", "#BalaConfete", "#BalaMastigável", "#BalaColorida", "#BalaSortida", "#BalaDeMorango", "#BalaDeUva", "#BalaDeCereja",
+                
+                                             "LencoisMaranhenses",
+                                            "ChapadaDiamantina",
+                                            "PantanalMatogrossense",
+                                            "FernandoDeNoronha",
+                                            "BonitoMS",
+                                            "AlterDoChao",
+                                            "Jericoacoara",
+                                            "IlhaDoCardoso",
+                                            "CanionItaimbezinho",
+                                            "ParqueNacionalSerraDaCapivara",
+                                            "ChapadaDosVeadeiros",
+                                            "PraiaDoEspelho",
+                                            "SerraDoRoncal",
+                                            "IlhaBoipeba",
+                                            "PantanalSulMatogrossense",
+                                            "ValeDoCapao",
+                                            "IlhaGrandeRJ",
+                                            "LagoaDoParaiso",
+                                            "CachoeiraDoCaracol",
+                                            "PraiaDoSancho",
+                                                
+                
                                                 "#SãoPaulo",
                                 "#RioDeJaneiro",
                                 "#BeloHorizonte",
