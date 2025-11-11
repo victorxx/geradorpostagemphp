@@ -46,6 +46,8 @@
         // Gerar conteúdo apenas uma vez por execução da página (sem loop infinito)
         function getRandomPropaganda() {
             $propagandas = [
+                "💻 Crédito pessoal fácil e rápido  -> https://www.instagram.com/geocredibnkvitoria/ ",
+                
                 "💻 VPS Rápido, Seguro e Barato -> https://filmeseserie.com.br/vps.html - WhatsApp: 27 99986-0405",
                 "💻 VPS Rápido, Seguro e Barato -> https://www.espiritosanto-es.com.br/vps.html - WhatsApp: 27 99986-0405",
                 "🚀 VPS de alta performance por um preço justo! Saiba mais: https://www.espiritosanto-es.com.br/vps.html - WhatsApp: 27 99986-0405",
@@ -3072,7 +3074,7 @@
             return $tags[array_rand($tags)];
         }
 
-        function getYoutubeLinks($query = "mensagem positiva ") {
+        function getYoutubeLinks($query = "detonado games ") {
             $query = urlencode($query);
             $url = "https://www.youtube.com/results?search_query={$query}";
 
